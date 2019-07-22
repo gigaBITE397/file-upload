@@ -1,0 +1,24 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "for operating on excel files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "excel",
+    "xlsx",
+    "xl",
+    "exl"
+  ],
+  "author": "Vinay Muley",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "chai": "^4.2.0",
+    "joi": "^14.3.1",
+    "mongodb": "^3.2.7",
+    "xlsx": "^0.14.3"
+  }
+}
